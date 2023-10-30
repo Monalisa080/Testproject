@@ -13,9 +13,12 @@ public class test {
 	private void m3() {
 		System.out.println("Bala Codes");
 	}
+private void m4() {
+	System.out.println("Same Codes");
 
 
 
 	
 
+}
 }
